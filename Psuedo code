@@ -1,0 +1,30 @@
+I apologize id this is vague. I have actually never participated in a trivia night or contest of 
+any kind in my whole life haha! If there is more to it than this please let me know and I will
+adjust accordingly.  - Thanks Dave
+
+
+
+
+** Store databases **
+- Scan in Data from user
+- Print (beginning trivia options)
+- Pull questions from power point?
+
+** Pick category **
+- Scan in input category / choose random category
+- print chosen category
+- Advance to question
+
+** Pick Question **
+ - Scan in (topic)
+ - pull question from database
+ - Print Question
+ - Scan in answer
+ - Print correct or incorrect
+ 
+ ** Keep Score **
+ - Scan in ( change in scores )
+ - print updated score board
+ - advance scores based on number of questions
+ 
+ 
